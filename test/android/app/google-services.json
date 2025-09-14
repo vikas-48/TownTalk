@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386305631015",
+    "project_id": "nvls-29fdd",
+    "storage_bucket": "nvls-29fdd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386305631015:android:ecc135408b50d59a8d7f02",
+        "android_client_info": {
+          "package_name": "com.example.towntalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwEPIEAkfgks924P2Snmtwq-tbpmljzzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
